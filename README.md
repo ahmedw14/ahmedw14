@@ -4,11 +4,15 @@
 <a href="https://www.linkedin.com/in/ahmedwly/">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="35px" />
 </a>
+
 &nbsp;
-<a href="https://github.com/ahmedw14/ahmedw14">
+
+<a href="https://github.com/ahmedw14/">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="35px" />
 </a>
+
 &nbsp;
+
 <a href="https://ahmedwly.web.app/">
   <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="35px" />
 </a>
